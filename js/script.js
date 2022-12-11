@@ -1,3 +1,4 @@
+// Passo a passo para resolver o problema proposto
 // Calcular o IMC
 // Peso ok
 // Altura ok
