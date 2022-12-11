@@ -16,3 +16,5 @@ function calcularIMC(){
 let h2 = document.querySelector("h2");
 h2.addEventListener("click", calcularIMC)
 
+// Realizei o clone do projeto canalYouTube Devheidson
+
