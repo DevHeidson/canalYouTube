@@ -1,0 +1,9 @@
+h2{
+    display: block;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 4px;
+    color: yellowgreen;
+    background-color: black;
+    cursor: pointer;
+}
